@@ -19,4 +19,4 @@ Interactive Excel dashboard created to analyze restaurant sales, customer rating
 - Ratings were mostly 5 & 1
 
 ## 👩‍💻 Author
-Mounika
+Ummadisetti Mounika
