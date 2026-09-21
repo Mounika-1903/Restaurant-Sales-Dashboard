@@ -56,6 +56,6 @@ To analyze restaurant sales data and transform it into meaningful business insig
 - Pivot Tables & Pivot Charts
 - Interactive Dashboard Design
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-"Restaurant Sales Dashboard" (Dashboard.png)
+![Restaurant Sales Dashboard](Dashboard.png)
